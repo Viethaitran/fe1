@@ -1,0 +1,265 @@
+header.top-header {
+    background: url(../images/286919156_729416461648895_8115157419722783125_n.png);
+    background-size: cover;
+}
+.chu{
+    padding:20px
+}
+.title2 {
+    font-size: 20px;
+}
+.title1{
+   color: #18ee05;
+   font-size: 2.5rem;  
+}
+.nd-head-top {
+    padding: 20px 0;
+}
+.nd {
+    font-size: 15px;
+    font-style: normal;
+}
+.phone {
+    font-size: 20px;
+    color: #39d416;
+    display: inline-block;
+    padding-left: 300px;
+}
+.sdt {
+    padding-top: 10px;
+    font-size: 20px;
+    color: #b1b0b0;  
+    padding-left: 150px;
+}
+.sdt:hover {
+    color: #39d416;
+}
+
+.navbar-expand-lg {
+    background: rgba(242,242,242,1);
+}
+.navbar-expand-lg .navbar-collapse {
+   
+  margin-left: 25px;
+}
+
+
+
+.nav-link.active:hover{
+    background:#79c13c;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #79c13c;
+    text-decoration: none;
+    background-color: #eaeaea;
+    padding:10px;
+    line-height: 60px;
+    border-right: 1px solid #dedede;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color:#fff;
+    background:#79c13c;
+}
+
+.nav-link:hover{
+    background:#79c13c;
+    color: #fff;
+}
+.banner {
+    color: #fff;
+    padding: 200px 0;
+}
+.banner h2 {
+    font-size: 2.5em;
+    font-weight: normal;
+    text-align:right;
+    color:#79c13c;   
+}
+.banner p {
+    font-size: 1.5em;
+}
+.btn-tour {
+    display: inline-block;
+    border: 2px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+}
+.btn-tour:hover, .btn-bg {
+    background: rgba(255, 255, 255, .25);
+    color: #fff;
+}
+.nav-line {
+    border-bottom: 1px solid rgba(255, 255, 255, .25);
+}
+
+.item1 {
+    background:#79c13c; 
+    font-size:4em;
+    color: #fff;
+    margin: 50px 0;
+    height: 7em;
+    width: auto;
+    border: 30px;
+}
+.tt{
+    display: flex;
+
+justify-content: space-between;
+border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #dedede;
+    padding: 20px;
+}
+.tt1{
+    display: flex;
+
+justify-content: space-between;
+
+    padding: 20px;
+}
+
+
+.img-fluid {
+    max-width: 200px;
+    height: 200px;
+}
+.chu {
+    padding: 20px;
+}
+.chu1{   
+     color: #777777;
+   
+    font-size: 1.8em;
+    font-style: normal;
+}
+.chu2{   
+     color: #777777;
+   
+    font-size: 1.3em;
+    font-style: normal;
+}
+
+.chu1:hover{
+    color:#39d416;
+}
+
+
+.fa-solid, .fas {
+   
+    padding: 20px;
+}
+.h4, h4 {
+    padding:20px;
+}
+.h6, h6 {
+    padding:20px;
+}
+.main {
+    margin-top: 20px;
+    border-top: #39d416 2px solid;
+    padding: 20px 0;
+}
+h3 {
+    color: #7c7878;   
+}
+p {
+    color: #7c7878;
+}
+.read {
+    padding: 10px 20px;
+    background: #34af29c1;
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px 0;
+    color: #fff;
+}
+.bd-bt {
+    border-bottom: #b1b0b0 1px solid;
+}
+.read:hover {
+    color: #fff;
+}
+.mui-ten {
+    color: #18ee05;
+    font-weight: bold;
+}
+.nd-hv {
+    color: #39d416;
+    font-weight: bold;
+}
+.nd-hv:hover {
+    color: #7c7878;
+}
+.hour {
+    display: inline-block;
+    color: #111;
+}
+h5 {
+    display: inline-block;
+    padding: 20px 0;
+    color: #fff;
+    font-size: 35px;
+}
+.nd-col-3 {
+    background: #18ee05;
+    padding-left: 10px;
+}
+.nd-hour {
+    border-top: #fff 1px solid;
+    border-bottom: #fff 1px solid;
+    padding: 20px 0;
+    color: #fff;
+}
+.end-nd-hour {
+    color: #fff;
+    padding: 20px 0;
+}
+.nd-2-col-3 {
+    margin: 20px 0;
+    background: #f6ebeb;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.end-col-3 {
+    display: inline-block;
+    color: #18ee05;
+}
+
+.end-col-3:hover {
+    display: inline-block;
+    color: #18ee05;
+    border-bottom: #18ee05 1px solid;
+}
+footer {
+    background: #f6ebeb;
+    padding: 20px 0;
+    
+}
+.bg-icon {
+    font-size: 50px;
+    background: #d1cfcf;
+    color: #39d416;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.head-footer {
+    padding: 40px 0;
+    border-bottom: 1px #b1b0b0 solid;
+}
+.nd-head-ft:hover {
+    color: #39d416;
+}
+.end-footer {
+    padding: 20px 0;
+    font-size: 15px;
+}
+.end-p:hover {
+    display: inline;
+    color: #18ee05;
+}
+
